@@ -8,8 +8,9 @@ skill for coding agents, in Three.js. Everything is a pure function of `t`; a
 40 s loop. No video model, no textures, no imported assets: every house, bike
 and bitterbal is primitives in code.
 
-**Try it:** download [`ophaalbrug.html`](ophaalbrug.html) and open it. One file,
-0.8 MB, runs offline.
+**Watch it live:** <https://mister030.github.io/ophaalbrug-diorama/>
+(`?t=20.7` freezes a frame). Or download [`ophaalbrug.html`](ophaalbrug.html):
+one file, 0.8 MB, runs offline.
 
 A white bascule bridge carries bikes over the canal until a tjalk with a tall
 mast comes along. The keeper drops the booms, one cyclist in a suit brakes a
