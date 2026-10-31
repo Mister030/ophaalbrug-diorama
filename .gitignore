@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.claude/
+.DS_Store
+
+# reference footage is for research only, not for redistribution
+refs/gracht/clip.*
+refs/gracht/sheet-*.png
+
+# QA scratch: keep the proof pack, drop the probes and frame dumps
+qa/frames/
+shots/c-*.png
+shots/p-*.png
+shots/z-*.png
+shots/seam-*.png
+shots/standalone-*.png
+shots/closeups*.jpg
+shots/sheet.jpg
+video/frames/
+video/seg/
